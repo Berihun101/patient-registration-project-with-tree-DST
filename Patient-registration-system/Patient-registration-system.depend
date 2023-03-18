@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1673867587 source:c:\users\hp\desktop\aoa-group-assignment\patient-registration-system\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<Windows.h>
+	<cstring>
+	<conio.h>
+	"enterance.cpp"
+	"mainmenu.h"
+	"insert.h"
+
+1673858357 c:\users\hp\desktop\aoa-group-assignment\patient-registration-system\enterance.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<Windows.h>
+	<cstring>
+	<conio.h>
+
+1673859387 c:\users\hp\desktop\aoa-group-assignment\patient-registration-system\mainmenu.h
+	<string.h>
+	<Windows.h>
+	<cstring>
+	<conio.h>
+
+1673868234 c:\users\hp\desktop\aoa-group-assignment\patient-registration-system\insert.h
+	<conio.h>
+	<fstream>
+	<iomanip>
+

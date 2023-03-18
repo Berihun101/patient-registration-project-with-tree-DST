@@ -1,0 +1,21 @@
+
+
+							 ********** Display patient records ********** 
+N0   Personal Information       value          
+--------------------------------------------------------------------------------------------------------------------------------------------------
+1    First name:                b              
+     Father name:               g              
+     Card number:               5              
+     Age:                       4
+     Gender:                    r              
+     Phone Number:              5              
+     Blood Type:                d              
+
+2    First name:                f              
+     Father name:               g              
+     Card number:               4              
+     Age:                       1
+     Gender:                    s              
+     Phone Number:              2              
+     Blood Type:                s              
+
